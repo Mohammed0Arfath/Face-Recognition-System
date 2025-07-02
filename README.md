@@ -20,6 +20,7 @@ This repository contains a comprehensive, end-to-end face recognition system dev
 The final part of the notebook features a real-time application that uses your webcam to detect and identify faces, drawing bounding boxes and displaying the predicted identity with a confidence score.
 
 ![image](https://github.com/user-attachments/assets/a0715740-7372-46d5-8cfe-5e0efdbf5e0c)
+
 *Caption: Real-time face recognition using the trained InsightFace + LDA model.*
 
 ## System Architecture
