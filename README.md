@@ -32,6 +32,9 @@ The project is structured as a multi-phase pipeline, allowing for modular experi
 3.  **Performance Evaluation:** Each trained model is evaluated on an unseen test set to measure its performance using a variety of metrics.
 4.  **Real-time Inference:** The best-performing models are loaded and used in a real-time application to identify faces from a live video stream or static images.
 
+   ![Face_Recognition_System_Architecture_Diagram](https://github.com/user-attachments/assets/a3366591-cb26-4895-b50c-efc10130b3d8)
+
+
 ```
 Image Dataset -> [Face Detection & Embedding] -> Embedding Vector -> [ML Classifier] -> Predicted Identity
 ```
